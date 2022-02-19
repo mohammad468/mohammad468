@@ -1,6 +1,8 @@
+![Design and Development ](https://media-exp1.licdn.com/dms/image/C4D16AQF4E_M0lCL8xQ/profile-displaybackgroundimage-shrink_200_800/0/1641749436816?e=1650499200&v=beta&t=UCRS4mxmK9oE_MHj-Bxoqyi5RDIut14f_A7jKPgHmAM)
+
 ### Hi there 👋, Mohammad Mohseni
 #### Design and Development 
-![Design and Development ](https://media-exp1.licdn.com/dms/image/C4D16AQF4E_M0lCL8xQ/profile-displaybackgroundimage-shrink_200_800/0/1641749436816?e=1650499200&v=beta&t=UCRS4mxmK9oE_MHj-Bxoqyi5RDIut14f_A7jKPgHmAM)
+
 
 
 Skills: HTML / CSS / Bootstrap / JavaScript / TypeScript / React / Next
