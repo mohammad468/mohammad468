@@ -6,10 +6,17 @@
 ## Skills and Experience
 * Html , Css
 * Bootstrap
+* tailwindCss
+* material ui
 * JavaScript
+* javascript libraries
 * TypeScript
 * React
 * NextJs
+* form.io
+* bpmn2
+* camunda modeler
+* scrum
 
 - 🔭 I’m currently working on Tecno Bazrooj 
 - 🌱 I’m currently learning Typescript 
